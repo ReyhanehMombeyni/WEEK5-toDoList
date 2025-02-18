@@ -10,8 +10,6 @@ const Items = ({items, deleteHandler, editHandler, textEdit, setTextEdit, isEdit
         }) 
         
       }
-      {console.log(items)
-      }
 
     </div>
     
